@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: ti.optimizely
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2022 by Your Company
+
+# these should not be edited
+name: ti.optimizely
+moduleid: ti.optimizely
+guid: 61c4a049-3fb4-4e6b-b40d-7db7802554dd
+platform: android
+minsdk: 10.0.0
